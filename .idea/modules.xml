@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Arrays.iml" filepath="$PROJECT_DIR$/.idea/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array code/Smax.iml" filepath="$PROJECT_DIR$/Array code/Smax.iml" />
+    </modules>
+  </component>
+</project>
