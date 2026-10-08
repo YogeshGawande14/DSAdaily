@@ -21,3 +21,19 @@ This repo is my daily commitment to growth. Each solution is a step toward crack
 - 🌱 Batch-Friendly – Designed to be teachable and accessible
 - Tech Stack
 - language Java ,IDE IntellijIdea
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/YogeshGawande14/DSAdaily/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/YogeshGawande14/DSAdaily/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/YogeshGawande14/DSAdaily/tree/master/1021-remove-outermost-parentheses) |
+<!---LeetCode Topics End-->
