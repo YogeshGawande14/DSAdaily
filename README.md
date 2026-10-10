@@ -43,4 +43,28 @@ This repo is my daily commitment to growth. Each solution is a step toward crack
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/YogeshGawande14/DSAdaily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Array
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/YogeshGawande14/DSAdaily/tree/master/0287-find-the-duplicate-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/YogeshGawande14/DSAdaily/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/YogeshGawande14/DSAdaily/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/YogeshGawande14/DSAdaily/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/YogeshGawande14/DSAdaily/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/YogeshGawande14/DSAdaily/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
