@@ -67,4 +67,8 @@ This repo is my daily commitment to growth. Each solution is a step toward crack
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/YogeshGawande14/DSAdaily/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/YogeshGawande14/DSAdaily/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
