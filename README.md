@@ -70,5 +70,6 @@ This repo is my daily commitment to growth. Each solution is a step toward crack
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/YogeshGawande14/DSAdaily/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YogeshGawande14/DSAdaily/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
