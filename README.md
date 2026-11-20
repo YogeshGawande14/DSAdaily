@@ -26,6 +26,7 @@ This repo is my daily commitment to growth. Each solution is a step toward crack
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/YogeshGawande14/DSAdaily/tree/master/0013-roman-to-integer) |
 | [1021-remove-outermost-parentheses](https://github.com/YogeshGawande14/DSAdaily/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/YogeshGawande14/DSAdaily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
@@ -73,6 +74,7 @@ This repo is my daily commitment to growth. Each solution is a step toward crack
 | ------- |
 | [0007-reverse-integer](https://github.com/YogeshGawande14/DSAdaily/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YogeshGawande14/DSAdaily/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/YogeshGawande14/DSAdaily/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/YogeshGawande14/DSAdaily/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -82,4 +84,8 @@ This repo is my daily commitment to growth. Each solution is a step toward crack
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/YogeshGawande14/DSAdaily/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/YogeshGawande14/DSAdaily/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
