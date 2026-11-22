@@ -46,6 +46,7 @@ This repo is my daily commitment to growth. Each solution is a step toward crack
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YogeshGawande14/DSAdaily/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YogeshGawande14/DSAdaily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/YogeshGawande14/DSAdaily/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
@@ -87,5 +88,6 @@ This repo is my daily commitment to growth. Each solution is a step toward crack
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YogeshGawande14/DSAdaily/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/YogeshGawande14/DSAdaily/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
